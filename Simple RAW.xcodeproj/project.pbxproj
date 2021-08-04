@@ -103,8 +103,8 @@
 				3AE6843D26BB29D1003CBB4E /* Assets.xcassets */,
 				3A1BF0AD25DF002B00F8BB1E /* RawCaptureDelegate.swift */,
 				3A7986DC25918C3500C114FE /* Main.storyboard */,
-				3A84F1C3255449AA00809C96 /* LaunchScreen.storyboard */,
 				3A84F1C6255449AA00809C96 /* Info.plist */,
+				3A84F1C3255449AA00809C96 /* LaunchScreen.storyboard */,
 				3A76062B2574918900070523 /* CapturedImageView.swift */,
 				3A7606302574946E00070523 /* ViewController+Extras.swift */,
 			);
@@ -189,7 +189,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 3A84F1B0255449A500809C96 /* Build configuration list for PBXProject "camera version 2" */;
+			buildConfigurationList = 3A84F1B0255449A500809C96 /* Build configuration list for PBXProject "Simple RAW" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -540,7 +540,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		3A84F1B0255449A500809C96 /* Build configuration list for PBXProject "camera version 2" */ = {
+		3A84F1B0255449A500809C96 /* Build configuration list for PBXProject "Simple RAW" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3A84F1DD255449AA00809C96 /* Debug */,
