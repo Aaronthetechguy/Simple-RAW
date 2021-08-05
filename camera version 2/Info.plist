@@ -25,7 +25,7 @@
 	<key>NSCameraUsageDescription</key>
 	<string>Allows app to work</string>
 	<key>NSPhotoLibraryUsageDescription</key>
-	<string>saves photos you idiot</string>
+	<string>Allows app to save photos</string>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
