@@ -23,9 +23,9 @@
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>NSCameraUsageDescription</key>
-	<string>Allows app to work</string>
+	<string>Allows app to capture photos using the rear camera</string>
 	<key>NSPhotoLibraryUsageDescription</key>
-	<string>Allows app to save photos</string>
+	<string>Allows app to save captured photos to photo gallery</string>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
