@@ -54,6 +54,8 @@ class CapturedImageView : UIView, UIGestureRecognizerDelegate{
                         generator.impactOccurred()
                        UIApplication.shared.open(customURL)
                    } else {
+                    let generator = UIImpactFeedbackGenerator(style: .medium)
+                                generator.impactOccurred()
                        UIApplication.shared.openURL(customURL)
                    }
         
