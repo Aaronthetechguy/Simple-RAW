@@ -50,6 +50,8 @@ class CapturedImageView : UIView, UIGestureRecognizerDelegate{
         let photosApp = "photos-redirect://"
         let customURL = URL(string: photosApp)!
         if #available(iOS 10.0, *) {
+            let generator = UIImpactFeedbackGenerator(style: .medium)
+                        generator.impactOccurred()
                        UIApplication.shared.open(customURL)
                    } else {
                        UIApplication.shared.openURL(customURL)
